@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<settings>
+    <category label="32001">
+        <setting label="32002" type="file" id="shotwelldb" value=""/>
+        <setting label="32005" type="lsep"/>
+        <setting label="32003" type="text" id="sourcepath" default=""/>
+        <setting label="32004" type="text" id="targetpath" default=""/>
+    </category>
+    <category label="32101">
+        <setting label="32102" type="bool" id="sort_events_desc" default="true"/>
+        <!--setting label="32103" type="bool" id="sort_pictures_asc" default="true"/-->
+    </category>
+</settings>
